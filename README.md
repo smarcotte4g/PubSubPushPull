@@ -30,4 +30,4 @@ Add Key button and add a new JSON key. This will download a file to you computer
 
 Create a Pub/Sub Topic and leave defaults. This will create a topic-sub subscription
 
-Run 2 terminals, start 
+Run 2 terminals, start pubsubget.py and then main.py
