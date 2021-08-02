@@ -16,7 +16,7 @@ PUB_SUB_TOPIC = "CREATED-topic"
 PUB_SUB_PROJECT = "GCP_PROJECT_NAME"
 
 ## Google json key with 'Pub/Sub Publisher' and 'Pub/Sub Subscriber' permissions
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="learn-321620-e313efc6a715.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="FILE.json"
 
 def main():
     check_all_hash()
